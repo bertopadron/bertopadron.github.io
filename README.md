@@ -1,2 +1,2 @@
 # bertopadron.github.io
-Another side of bertopadron
+A kind of personal website for random things...
