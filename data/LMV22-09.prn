@@ -1,0 +1,57 @@
+
+----------------------------------------
+
+    
+
+
+Phase Compositions (weight percentages):
+                   wt %      vol %     mol %     mol        MGO      AL2O3    X2O3     SIO2 
+ py                16.53     23.90     10.34    0.300       29.994   25.293    0.000   44.714
+ ky                24.36     34.05     37.93     1.10        0.000   62.921    0.000   37.079
+ clerm             59.11     42.05     51.72     1.50       13.980    0.000   86.020    0.000
+
+Structural formulae for 688 format solution models: none stable.
+
+
+Molar Properties and Density:
+                    N(g)          G(J)     S(J/K)     V(J/bar)      Cp(J/K)       Alpha(1/K)  Beta(1/bar)    Cp/Cv    Density(kg/m3)
+ py                403.12       -6457214   964.21       11.499       517.05      0.28339E-04  0.65403E-06   1.0417       3505.9    
+ ky                162.05       -2624811   360.40       4.4676       207.74      0.25871E-04  0.71038E-06   1.0306       3627.1    
+ clerm             288.30       -2401965   499.74       4.0468       289.99      0.28281E-04  0.58804E-06   1.0286       7124.2    
+ System            731.64       -8427405   1435.3       14.434       818.62      0.27474E-04  0.64546E-06   1.0311       5068.8    
+
+Seismic Properties:
+                 Gruneisen_T      Ks(bar)      Mu(bar)    V0(km/s)     Vp(km/s)     Vs(km/s)   Poisson ratio
+ py                 1.0038      0.15927E+07  0.86066E+06   6.7401       8.8409       4.9547      0.27105    
+ ky                0.80717      0.14508E+07  0.99650E+06   6.3244       8.7538       5.2415      0.22055    
+ clerm             0.69033      0.17492E+07  0.98698E+06   4.9551       6.5593       3.7221      0.26254    
+ System            0.80501      0.16049E+07  0.95829E+06   5.6269       7.5412       4.3480      0.25101    
+
+Bulk Composition:
+
+              mol        g        wt %     mol/kg
+    MGO       2.400    96.730    13.221     3.280
+    AL2O3     1.400   142.745    19.510     1.914
+    X2O3      1.500   371.998    50.844     2.050
+    SIO2      2.000   120.168    16.424     2.734
+
+Other Bulk Properties:
+
+ Enthalpy (J/kg) = -.864449E+07
+ Specific Enthalpy (J/m3) = -.438175E+11
+ Entropy (J/K/kg) =  1961.78    
+ Specific Entropy (J/K/m3) = 0.994396E+07
+ Heat Capacity (J/K/kg) =  1118.89    
+ Specific Heat Capacity (J/K/m3) = 0.567145E+07
+
+
+Chemical Potentials (J/mol):
+
+      MGO           AL2O3         X2O3          SIO2 
+    -662876.     -0.170292E+07 -0.173909E+07  -921887.    
+
+Variance (c-p+2) =  3
+
+
+----------------------------------------
+
