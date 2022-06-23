@@ -1,0 +1,325 @@
+
+----------------------------------------
+
+    
+
+
+Phase Compositions (weight percentages):
+                   wt %      vol %     mol %     mol        MGO      AL2O3    X2O3     SIO2 
+ Opx(HP)           22.40     31.09     16.31    0.421       37.651    6.221    0.000   56.129
+ Nath(LMV)         58.18     53.21     67.39     1.74        0.000   67.274   32.726    0.000
+ q                  3.35      5.75      8.15    0.210        0.000    0.000    0.000  100.000
+ clerm             16.07      9.94      8.15    0.210       13.980    0.000   86.020    0.000
+
+Phase speciation (molar proportions):
+
+ Opx(HP)           mgts: 0.12261, en: 0.87739
+ Nath(LMV)         cor: 0.83333, nath: 0.16667
+
+Structural formulae for 688 format solution models: none stable.
+
+
+Molar Properties and Density:
+                    N(g)          G(J)     S(J/K)     V(J/bar)      Cp(J/K)       Alpha(1/K)  Beta(1/bar)    Cp/Cv    Density(kg/m3)
+ Opx(HP)           200.97       -3148753   433.77       6.3332       259.49      0.33429E-04  0.10331E-05   1.0321       3173.2    
+ Nath(LMV)         126.30       -1683908   212.02       2.6235       130.74      0.28532E-04  0.44743E-06   1.0449       4814.3    
+ q                  60.08        -917744   127.95       2.3444       71.695      0.25660E-05  0.14639E-05   1.0002       2562.9    
+ clerm             288.30       -2331329   438.54       4.0512       286.07      0.29042E-04  0.58119E-06   1.0248       7116.5    
+ System            377.33       -4934607   670.12       8.5689       411.63      0.28611E-04  0.70128E-06   1.0294       4403.5    
+
+Seismic Properties:
+                 Gruneisen_T      Ks(bar)      Mu(bar)    V0(km/s)     Vp(km/s)     Vs(km/s)   Poisson ratio
+ Opx(HP)           0.81512      0.99905E+06  0.66793E+06   5.6110       7.7168       4.5879      0.22664    
+ Nath(LMV)          1.3371      0.23353E+07  0.14674E+07   6.9648       9.4419       5.5209      0.24023    
+ q                 0.57329E-01  0.68325E+06  0.42263E+06   5.1633       6.9747       4.0608      0.24359    
+ clerm             0.72517      0.17632E+07  0.10049E+07   4.9776       6.6034       3.7578      0.26053    
+ System             1.0403      0.16196E+07  0.10267E+07   6.0648       8.2382       4.8286      0.23834    
+
+Bulk Composition:
+
+              mol        g        wt %     mol/kg
+    MGO       1.000    40.304    10.681     2.650
+    AL2O3     1.500   152.941    40.533     3.975
+    X2O3      0.500   123.999    32.862     1.325
+    SIO2      1.000    60.084    15.924     2.650
+
+Other Bulk Properties:
+
+ Enthalpy (J/kg) = -.109875E+08
+ Specific Enthalpy (J/m3) = -.483828E+11
+ Entropy (J/K/kg) =  1775.95    
+ Specific Entropy (J/K/m3) = 0.782031E+07
+ Heat Capacity (J/K/kg) =  1090.90    
+ Specific Heat Capacity (J/K/m3) = 0.480373E+07
+
+
+Chemical Potentials (J/mol):
+
+      MGO           AL2O3         X2O3          SIO2 
+    -649452.     -0.168431E+07 -0.168188E+07  -917745.    
+
+Variance (c-p+2) =  2
+
+
+----------------------------------------
+
+
+----------------------------------------
+
+    
+
+
+Phase Compositions (weight percentages):
+                   wt %      vol %     mol %     mol        MGO      AL2O3    X2O3     SIO2 
+ Opx(HP)           23.79     33.14     17.50    0.447       37.792    5.869    0.000   56.339
+ Nath(LMV)         61.61     55.01     70.12     1.79        0.000   63.527   36.473    0.000
+ q                  2.52      4.34      6.19    0.158        0.000    0.000    0.000  100.000
+ clerm             12.08      7.50      6.19    0.158       13.980    0.000   86.020    0.000
+
+Phase speciation (molar proportions):
+
+ Opx(HP)           mgts: 0.11567, en: 0.88433
+ Nath(LMV)         cor: 0.80903, nath: 0.19097
+
+Structural formulae for 688 format solution models: none stable.
+
+
+Molar Properties and Density:
+                    N(g)          G(J)     S(J/K)     V(J/bar)      Cp(J/K)       Alpha(1/K)  Beta(1/bar)    Cp/Cv    Density(kg/m3)
+ Opx(HP)           200.96       -3146503   429.89       6.3385       258.82      0.33519E-04  0.10347E-05   1.0318       3170.4    
+ Nath(LMV)         129.85       -1682635   211.33       2.6258       130.95      0.28552E-04  0.44642E-06   1.0443       4945.1    
+ q                  60.08        -917797   126.85       2.3477       71.534      0.28050E-05  0.14681E-05   1.0002       2559.2    
+ clerm             288.30       -2327526   434.25       4.0514       285.76      0.29066E-04  0.58077E-06   1.0245       7116.1    
+ System            377.33       -4931199   659.10       8.5445       406.55      0.29118E-04  0.69584E-06   1.0306       4416.1    
+
+Seismic Properties:
+                 Gruneisen_T      Ks(bar)      Mu(bar)    V0(km/s)     Vp(km/s)     Vs(km/s)   Poisson ratio
+ Opx(HP)           0.81863      0.99725E+06  0.66850E+06   5.6084       7.7181       4.5919      0.22604    
+ Nath(LMV)          1.3393      0.23393E+07  0.14690E+07   6.8779       9.3228       5.4504      0.24036    
+ q                 0.62721E-01  0.68129E+06  0.42242E+06   5.1596       6.9734       4.0627      0.24309    
+ clerm             0.72693      0.17640E+07  0.10060E+07   4.9789       6.6060       3.7600      0.26040    
+ System             1.0654      0.16317E+07  0.10390E+07   6.0787       8.2657       4.8506      0.23737    
+
+Bulk Composition:
+
+              mol        g        wt %     mol/kg
+    MGO       1.000    40.304    10.681     2.650
+    AL2O3     1.500   152.942    40.533     3.975
+    X2O3      0.500   123.999    32.862     1.325
+    SIO2      1.000    60.084    15.924     2.650
+
+Other Bulk Properties:
+
+ Enthalpy (J/kg) = -.110442E+08
+ Specific Enthalpy (J/m3) = -.487718E+11
+ Entropy (J/K/kg) =  1746.76    
+ Specific Entropy (J/K/m3) = 0.771380E+07
+ Heat Capacity (J/K/kg) =  1077.45    
+ Specific Heat Capacity (J/K/m3) = 0.475806E+07
+
+
+Chemical Potentials (J/mol):
+
+      MGO           AL2O3         X2O3          SIO2 
+    -648685.     -0.168353E+07 -0.167884E+07  -917797.    
+
+Variance (c-p+2) =  2
+
+
+----------------------------------------
+
+
+----------------------------------------
+
+  
+
+
+Phase Compositions (weight percentages):
+                   wt %      vol %     mol %     mol        MGO      AL2O3    X2O3     SIO2 
+ Opx(HP)           20.80     28.20     17.02    0.391       37.880    5.649    0.000   56.471
+ Nath(LMV)         59.05     50.65     73.84     1.69        0.000   61.855   38.145    0.000
+ crd                8.13     13.90      2.29    0.524E-01   13.780   34.861    0.000   51.358
+ clerm             12.02      7.25      6.86    0.157       13.980    0.000   86.020    0.000
+
+Phase speciation (molar proportions):
+
+ Opx(HP)           mgts: 0.11133, en: 0.88867
+ Nath(LMV)         cor: 0.79774, nath: 0.20226
+
+Structural formulae for 688 format solution models: none stable.
+
+
+Molar Properties and Density:
+                    N(g)          G(J)     S(J/K)     V(J/bar)      Cp(J/K)       Alpha(1/K)  Beta(1/bar)    Cp/Cv    Density(kg/m3)
+ Opx(HP)           200.95       -3144633   425.98       6.3428       258.14      0.33606E-04  0.10361E-05   1.0315       3168.2    
+ Nath(LMV)         131.50       -1681410   209.91       2.6268       130.89      0.28558E-04  0.44565E-06   1.0437       5006.0    
+ crd               584.95       -9252824   1225.3       23.292       726.17      0.62168E-05  0.13872E-05   1.0010       2511.4    
+ clerm             288.30       -2323800   429.90       4.0517       285.43      0.29087E-04  0.58035E-06   1.0242       7115.7    
+ System            377.33       -4928064   653.94       8.7872       405.59      0.26915E-04  0.75279E-06   1.0244       4294.1    
+
+Seismic Properties:
+                 Gruneisen_T      Ks(bar)      Mu(bar)    V0(km/s)     Vp(km/s)     Vs(km/s)   Poisson ratio
+ Opx(HP)           0.82211      0.99559E+06  0.66907E+06   5.6058       7.7190       4.5955      0.22548    
+ Nath(LMV)          1.3423      0.23421E+07  0.14707E+07   6.8399       9.2712       5.4201      0.24037    
+ crd               0.14389      0.72161E+06  0.70292E+06   5.3604       8.1273       5.2905      0.13233    
+ clerm             0.72864      0.17648E+07  0.10071E+07   4.9801       6.6086       3.7622      0.26026    
+ System            0.98454      0.15296E+07  0.10350E+07   5.9683       8.2314       4.9094      0.22395    
+
+Bulk Composition:
+
+              mol        g        wt %     mol/kg
+    MGO       1.000    40.304    10.681     2.650
+    AL2O3     1.500   152.941    40.533     3.975
+    X2O3      0.500   123.999    32.862     1.325
+    SIO2      1.000    60.084    15.924     2.650
+
+Other Bulk Properties:
+
+ Enthalpy (J/kg) = -.110830E+08
+ Specific Enthalpy (J/m3) = -.475908E+11
+ Entropy (J/K/kg) =  1733.08    
+ Specific Entropy (J/K/m3) = 0.744195E+07
+ Heat Capacity (J/K/kg) =  1074.90    
+ Specific Heat Capacity (J/K/m3) = 0.461569E+07
+
+
+Chemical Potentials (J/mol):
+
+      MGO           AL2O3         X2O3          SIO2 
+    -647164.     -0.168262E+07 -0.167664E+07  -918651.    
+
+Variance (c-p+2) =  2
+
+
+----------------------------------------
+
+
+----------------------------------------
+
+   
+
+
+Phase Compositions (weight percentages):
+                   wt %      vol %     mol %     mol        MGO      AL2O3    X2O3     SIO2 
+ Opx(HP)           19.90     26.86     16.43    0.374       37.916    5.561    0.000   56.524
+ Nath(LMV)         57.54     49.54     73.24     1.67        0.000   63.008   36.992    0.000
+ crd                9.10     15.51      2.58    0.587E-01   13.780   34.861    0.000   51.358
+ clerm             13.46      8.09      7.75    0.176       13.980    0.000   86.020    0.000
+
+Phase speciation (molar proportions):
+
+ Opx(HP)           mgts: 0.10959, en: 0.89041
+ Nath(LMV)         cor: 0.80556, nath: 0.19444
+
+Structural formulae for 688 format solution models: none stable.
+
+
+Molar Properties and Density:
+                    N(g)          G(J)     S(J/K)     V(J/bar)      Cp(J/K)       Alpha(1/K)  Beta(1/bar)    Cp/Cv    Density(kg/m3)
+ Opx(HP)           200.95       -3143143   422.07       6.3462       257.46      0.33691E-04  0.10374E-05   1.0312       3166.4    
+ Nath(LMV)         130.36       -1680328   207.52       2.6258       130.44      0.28549E-04  0.44523E-06   1.0432       4964.4    
+ crd               584.95       -9254177   1213.9       23.322       723.83      0.64029E-05  0.13903E-05   1.0011       2508.2    
+ clerm             288.30       -2320153   425.48       4.0519       285.09      0.29104E-04  0.57993E-06   1.0239       7115.3    
+ System            377.33       -4925139   649.57       8.8278       406.17      0.26539E-04  0.76180E-06   1.0231       4274.3    
+
+Seismic Properties:
+                 Gruneisen_T      Ks(bar)      Mu(bar)    V0(km/s)     Vp(km/s)     Vs(km/s)   Poisson ratio
+ Opx(HP)           0.82555      0.99408E+06  0.66964E+06   5.6030       7.7195       4.5987      0.22495    
+ Nath(LMV)          1.3465      0.23430E+07  0.14723E+07   6.8699       9.3133       5.4458      0.24022    
+ crd               0.14854      0.72004E+06  0.70362E+06   5.3579       8.1309       5.2965      0.13145    
+ clerm             0.73030      0.17655E+07  0.10083E+07   4.9813       6.6111       3.7644      0.26012    
+ System            0.97090      0.15141E+07  0.10315E+07   5.9518       8.2220       4.9125      0.22241    
+
+Bulk Composition:
+
+              mol        g        wt %     mol/kg
+    MGO       1.000    40.304    10.681     2.650
+    AL2O3     1.500   152.942    40.533     3.975
+    X2O3      0.500   123.999    32.862     1.325
+    SIO2      1.000    60.084    15.924     2.650
+
+Other Bulk Properties:
+
+ Enthalpy (J/kg) = -.111194E+08
+ Specific Enthalpy (J/m3) = -.475278E+11
+ Entropy (J/K/kg) =  1721.51    
+ Specific Entropy (J/K/m3) = 0.735827E+07
+ Heat Capacity (J/K/kg) =  1076.43    
+ Specific Heat Capacity (J/K/m3) = 0.460101E+07
+
+
+Chemical Potentials (J/mol):
+
+      MGO           AL2O3         X2O3          SIO2 
+    -644980.     -0.168157E+07 -0.167517E+07  -920215.    
+
+Variance (c-p+2) =  2
+
+
+----------------------------------------
+
+
+----------------------------------------
+
+   
+
+
+Phase Compositions (weight percentages):
+                   wt %      vol %     mol %     mol        MGO      AL2O3    X2O3     SIO2 
+ Opx(HP)           18.83     25.30     15.72    0.354       37.969    5.429    0.000   56.603
+ Nath(LMV)         55.77     48.25     72.53     1.63        0.000   64.444   35.556    0.000
+ crd               10.25     17.39      2.94    0.661E-01   13.780   34.861    0.000   51.358
+ clerm             15.15      9.05      8.82    0.198       13.980    0.000   86.020    0.000
+
+Phase speciation (molar proportions):
+
+ Opx(HP)           mgts: 0.10699, en: 0.89301
+ Nath(LMV)         cor: 0.81510, nath: 0.18490
+
+Structural formulae for 688 format solution models: none stable.
+
+
+Molar Properties and Density:
+                    N(g)          G(J)     S(J/K)     V(J/bar)      Cp(J/K)       Alpha(1/K)  Beta(1/bar)    Cp/Cv    Density(kg/m3)
+ Opx(HP)           200.94       -3141627   418.09       6.3499       256.75      0.33771E-04  0.10387E-05   1.0309       3164.5    
+ Nath(LMV)         128.96       -1679303   205.03       2.6247       129.95      0.28534E-04  0.44484E-06   1.0426       4913.5    
+ crd               584.95       -9255766   1202.4       23.351       721.46      0.65883E-05  0.13934E-05   1.0011       2505.0    
+ clerm             288.30       -2316587   420.99       4.0521       284.74      0.29119E-04  0.57951E-06   1.0235       7114.9    
+ System            377.33       -4922336   645.36       8.8754       406.99      0.26095E-04  0.77228E-06   1.0217       4251.4    
+
+Seismic Properties:
+                 Gruneisen_T      Ks(bar)      Mu(bar)    V0(km/s)     Vp(km/s)     Vs(km/s)   Poisson ratio
+ Opx(HP)           0.82896      0.99250E+06  0.67021E+06   5.6003       7.7202       4.6020      0.22440    
+ Nath(LMV)          1.3508      0.23437E+07  0.14739E+07   6.9065       9.3646       5.4769      0.24006    
+ crd               0.15321      0.71846E+06  0.70432E+06   5.3555       8.1345       5.3025      0.13056    
+ clerm             0.73189      0.17662E+07  0.10094E+07   4.9824       6.6137       3.7666      0.25998    
+ System            0.95442      0.14964E+07  0.10274E+07   5.9328       8.2109       4.9159      0.22065    
+
+Bulk Composition:
+
+              mol        g        wt %     mol/kg
+    MGO       1.000    40.304    10.681     2.650
+    AL2O3     1.500   152.941    40.533     3.975
+    X2O3      0.500   123.999    32.862     1.325
+    SIO2      1.000    60.084    15.924     2.650
+
+Other Bulk Properties:
+
+ Enthalpy (J/kg) = -.111553E+08
+ Specific Enthalpy (J/m3) = -.474256E+11
+ Entropy (J/K/kg) =  1710.35    
+ Specific Entropy (J/K/m3) = 0.727138E+07
+ Heat Capacity (J/K/kg) =  1078.60    
+ Specific Heat Capacity (J/K/m3) = 0.458557E+07
+
+
+Chemical Potentials (J/mol):
+
+      MGO           AL2O3         X2O3          SIO2 
+    -642799.     -0.168055E+07 -0.167379E+07  -921812.    
+
+Variance (c-p+2) =  2
+
+
+----------------------------------------
+
