@@ -106,7 +106,7 @@ $$C_P(T,P_r) = c_1 + c_2·T + c_3/T^2 + c5/\sqrt T$$
 
 ### Murnaghan equation for volume
 
-#### Isobaric expansivity
+#### Isobaric thermal expansivity
 
 From an **experimental** point of view, the isobaric expansivity is found by fitting volumetric data at 1 bar over a temperature range,
 
@@ -122,8 +122,10 @@ Only $b_1,b_5,b_6,b_7$ are used
 $$
 \alpha (T,P_r) = b_1 + b_5/\sqrt T
 $$
-Note that in PerpleX $b_5$ is redundant $b_5 = -10b_1$, 
-
+Note that in PerpleX $b_5$ is redundant $b_5 = -10b_1$, this simplification is taken from Pawley et al. (1996), where $b_1 = \alpha_0$ and $ b_5 = -10\alpha_0$.
+$$
+\alpha = \alpha_0(1-10T^{-1/2})
+$$
 then the volume at any temperature and 1 bar is computed as (note that we use the Taylor expansion approximation for small numbers where $\exp(x) \approx 1 +x $)
 
 $$
