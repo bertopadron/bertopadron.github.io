@@ -2,7 +2,7 @@
 
 ¡Hola!, this site will be dedicated to the last two days of the course and a place to download files. 
 
-![](https://bertopadron.github.io/images/DALL_Lyell)
+![Course logo](/bertopadron/assets/images/Dall_Lyell.png)
 
 ### The last challenge
 
