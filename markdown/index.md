@@ -2,13 +2,11 @@
 
 ¡Hola!, this site will be dedicated to the last two days of the course and a place to download files. 
 
-
-
-![DALL·E 2023-04-25 17.02.57 - a portrait of Charles Lyell using a computer with rocks and a microscope in a table](/Users/josealbertopadronnavarta/Library/Mobile Documents/com~apple~CloudDocs/00_GitHub/bertopadron.github.io/images/DALL·E 2023-04-25 17.02.57 - a portrait of Charles Lyell using a computer with rocks and a microscope in a table.png)
+![](https://bertopadron.github.io/images/DALL_Lyell)
 
 ### The last challenge
 
-You've a learned quite a lot of things this week so I propose the following game.
+You've learned quite a lot of things this week so I propose the following game.
 
 After a long field campaign in the Antarctic, a bunch of petrologists from our PGG group brought a collection of 10 unusual samples (samples PGG23-01 to PGG23-10 ) from two sites but with no contextual information (i.e., *"xenoliths"*). Back in Granada (Armilla), they discovered that most of the samples contained significant amounts of an unknown element that they temporarily called X. 
 
