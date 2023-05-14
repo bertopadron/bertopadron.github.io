@@ -2,7 +2,7 @@
 
 ¡Hola!, this site will be dedicated to the last two days of the course and a place to download files. 
 
-![Course logo](/bertopadron/assets/images/Dall_Lyell.png)
+![Course logo](https://bertopadron.github.io/docs/assets/images/DALL_Lyell.png)
 
 ### The last challenge
 
@@ -18,7 +18,7 @@ You will start by looking at the petrological data (bulk rock chemistry, mineral
 
 **Site 2** Samples from PGG23-06 to PGG23-10.
 
-[XRF data](https://bertopadron.github.io/data/Geochemistry/XRF.csv) and EPMA data.
+[XRF data](https://bertopadron.github.io/data/Geochemistry/XRF.csv) and [EPMA data](https://bertopadron.github.io/data/Geochemistry/EPMA.xlsx). (EPMA with Numbers format for [Macs](https://bertopadron.github.io/data/Geochemistry/EPMA.numbers))
 
 No more information is given (but as you know the PGG is excellently equipped with all experimental techniques necessary to accomplish the project). Your challenge is to discuss what kind of experimental data you would need to solve the puzzle.
 
@@ -26,7 +26,7 @@ Good luck!
 
 ### Resources
 
-* Here is a summary of the key expression needed to understand what is behind the scenes of a phase diagram ([Clic here)](https://bertopadron.github.io/Thermo_Modelling_LMV.html).
+* Here is a summary of the key expression needed to understand what is behind the scenes of a phase diagram ([Clic here)](https://bertopadron.github.io/Computing_gibbs_Granada.html).
 
 * A few notes about the simplest solid solutions (ideal and regular). ([Clic here](https://bertopadron.github.io/Margules.html))
 
