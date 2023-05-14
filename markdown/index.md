@@ -18,7 +18,7 @@ You will start by looking at the petrological data (bulk rock chemistry, mineral
 
 **Site 2** Samples from PGG23-06 to PGG23-10.
 
-[XRF data](https://bertopadron.github.io/data/Geochemistry/XRF.csv) and [EPMA data](https://bertopadron.github.io/data/Geochemistry/EPMA.xlsx). (EPMA with Numbers format for [Macs](https://bertopadron.github.io/data/Geochemistry/EPMA.numbers))
+[XRF data](https://bertopadron.github.io/data/Geochemistry/XRF.xlsx) and [EPMA data](https://bertopadron.github.io/data/Geochemistry/XRF.xlsx). ([XRF](https://bertopadron.github.io/data/Geochemistry/EPMA.numbers) and [EPMA](https://bertopadron.github.io/data/Geochemistry/EPMA.numbers) with Numbers format for Macs.
 
 No more information is given (but as you know the PGG is excellently equipped with all experimental techniques necessary to accomplish the project). Your challenge is to discuss what kind of experimental data you would need to solve the puzzle.
 
@@ -26,17 +26,17 @@ Good luck!
 
 ### Resources
 
-* Here is a summary of the key expression needed to understand what is behind the scenes of a phase diagram ([Clic here)](https://bertopadron.github.io/Computing_gibbs_Granada.html).
+* Here is a summary of the key expression needed to understand what is behind the scenes of a phase diagram ([click here)](https://bertopadron.github.io/Computing_gibbs_Granada.html).
 
 * A few notes about the simplest solid solutions (ideal and regular). ([Clic here](https://bertopadron.github.io/Margules.html))
 
-* An example of olivine as a simple non-ideal binary solid solution implemented in python ([Clic here](https://bertopadron.github.io/forsterite_activity.html))
+* An example of olivine as a simple non-ideal binary solid solution implemented in Python ([Clic here](https://bertopadron.github.io/forsterite_activity.html))
 
   
 
 ### Other unrelated resources 
 
-* Oxygen fugacity based on Fe-Mg exchange in olivine-orthopyroxene in magnetite buffered assemblages. [Clic here](https://bertopadron.github.io/FFM_buffer.html)).
+* Oxygen fugacity based on Fe-Mg exchange in olivine-orthopyroxene in magnetite buffered assemblages ([Clic here](https://bertopadron.github.io/FFM_buffer.html)).
 
   
 
