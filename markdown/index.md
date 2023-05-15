@@ -18,7 +18,7 @@ You will start by looking at the petrological data (bulk rock chemistry, mineral
 
 **Site 2** Samples from PGG23-06 to PGG23-10.
 
-[XRF data](https://bertopadron.github.io/data/Geochemistry/XRF.xlsx) and [EPMA data](https://bertopadron.github.io/data/Geochemistry/XRF.xlsx). ([XRF](https://bertopadron.github.io/data/Geochemistry/EPMA.numbers) and [EPMA](https://bertopadron.github.io/data/Geochemistry/EPMA.numbers) with Numbers format for Macs.
+[XRF data](https://bertopadron.github.io/data/Geochemistry/XRF.xlsx) and [EPMA data](https://bertopadron.github.io/data/GeochemistryEPMA.xlsx). ([XRF](https://bertopadron.github.io/data/Geochemistry/XRF.numbers) and [EPMA](https://bertopadron.github.io/data/Geochemistry/EPMA.numbers) with Numbers format for Macs.
 
 No more information is given (but as you know the PGG is excellently equipped with all experimental techniques necessary to accomplish the project). Your challenge is to discuss what kind of experimental data you would need to solve the puzzle.
 
