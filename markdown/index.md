@@ -31,7 +31,7 @@ Here's the data that we managed to collect yesterday using just density measurem
 ```
 vic      EoS = 2 |                                                                   
 X2O3(1)
-G0 =       S0 =         V0 = 2.658  
+G0 = -1560000 S0 = 49.9 V0 = 2.658  
 c1 = 160.0 c2 = .600E-2 c3 = -2560600 c5 = -599.2  
 b1 = .429E-4 b5 = -.429E-3 b6 = 2620000. b7 = -388 b8 = 4  
 ```
