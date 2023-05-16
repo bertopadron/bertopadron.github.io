@@ -32,7 +32,7 @@ Here's the data that we managed to collect yesterday using just density measurem
 vic      EoS = 2 |                                                                   
 X2O3(1)
 G0 =       S0 =         V0 = 2.658  
-c1 =  c2 =         c3 =     c5 =   
+c1 = 160.0 c2 = .600E-2 c3 = -2560600 c5 = -599.2  
 b1 =  b5 =         b6 =     b7 =  b8 = 4 
 ```
 
@@ -40,7 +40,7 @@ b1 =  b5 =         b6 =     b7 =  b8 = 4
 menz     EoS = 2                                                                    
 MGO(3)X2O3(1)SIO2(3)
 G0 =       S0 =         V0 = 8.318  
-c1 =  c2 =         c3 =     c5 =   
+c1 = 600.0 c3 = -5100000 c5 = -4000.2 
 b1 =  b5 =         b6 =     b7 =  b8 = 4 
 ```
 
@@ -48,11 +48,21 @@ b1 =  b5 =         b6 =     b7 =  b8 = 4
 rom    EoS = 2                                                                   
 MGO(1)X2O3(1)
 G0 =       S0 =         V0 = 3.978  
-c1 =  c2 =         c3 =     c5 =   
+c1 = 342.7 c2 = -.5037E-2 c3 = -2205100 c5 = -1678.1 
 b1 =  b5 =         b6 =     b7 =  b8 = 4 
 ```
 
+### NEWS!! (2)
 
+This is the calorimetric [data](https://bertopadron.github.io/data/Calorimetric_data/Calorimetric_data_1bar.csv) at high temperatures.
+
+### NEWS!! (3)
+
+This is the X-ray volume data at high [temperatures](https://bertopadron.github.io/data/X-ray_data/isobar-1bar.csv) and [high pressures](https://bertopadron.github.io/data/X-ray_data/isotherm-298K.csv).
+
+### NEWS!! (4)
+
+[Low temperature](https://bertopadron.github.io/data/Calorimetric_data/Calorimetry_vic_low_T.csv) colorimetric data for vicentite.
 
 ### Resources
 
