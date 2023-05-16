@@ -24,6 +24,36 @@ No more information is given (but as you know the PGG is excellently equipped wi
 
 Good luck!      
 
+### NEWS!!! (1)
+
+Here's the data that we managed to collect yesterday using just density measurements and X-ray diffraction data (cell paramters and Z number)
+
+```
+vic      EoS = 2 |                                                                   
+X2O3(1)
+G0 =       S0 =         V0 = 2.658  
+c1 =  c2 =         c3 =     c5 =   
+b1 =  b5 =         b6 =     b7 =  b8 = 4 
+```
+
+```
+menz     EoS = 2                                                                    
+MGO(3)X2O3(1)SIO2(3)
+G0 =       S0 =         V0 = 8.318  
+c1 =  c2 =         c3 =     c5 =   
+b1 =  b5 =         b6 =     b7 =  b8 = 4 
+```
+
+```
+rom    EoS = 2                                                                   
+MGO(1)X2O3(1)
+G0 =       S0 =         V0 = 3.978  
+c1 =  c2 =         c3 =     c5 =   
+b1 =  b5 =         b6 =     b7 =  b8 = 4 
+```
+
+
+
 ### Resources
 
 * Here is a summary of the key expression needed to understand what is behind the scenes of a phase diagram ([click here)](https://bertopadron.github.io/Computing_gibbs_Granada.html).
