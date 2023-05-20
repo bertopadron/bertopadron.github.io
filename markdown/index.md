@@ -34,22 +34,25 @@ X2O3(1)
 G0 = -1560000 S0 = 49.9 V0 = 2.658  
 c1 = 160.0 c2 = .600E-2 c3 = -2560600 c5 = -599.2  
 b1 = .429E-4 b5 = -.429E-3 b6 = 2620000. b7 = -388 b8 = 4  
+end
 ```
 
 ```
 menz     EoS = 2                                                                    
 MGO(3)X2O3(1)SIO2(3)
-G0 =       S0 =         V0 = 8.318  
-c1 = 600.0 c3 = -5100000 c5 = -4000.2 
-b1 = .2500E-4 b5 = -.2500E-3 b6 = 2007000. b7 = -300.55 b8 = 4  
+G0 = -5900105 S0 = 280.3 V0 = 8.318  
+c1 = 600.0 c3 = -5100000 c5 = -4000.2  
+b1 = .2500E-4 b5 = -.2500E-3 b6 = 2007000. b7 = -300.55 b8 = 4   
+end 
 ```
 
 ```
 rom    EoS = 2                                                                   
 MGO(1)X2O3(1)
-G0 =       S0 =         V0 = 3.978  
-c1 = 342.7 c2 = -.5037E-2 c3 = -2205100 c5 = -1678.1 
-b1 = .431E-4 b5 = -.431E-3 b6 = 1945000. b7 = -291.75 b8 = 4 
+G0 = -2106030 S0 = 81.5 V0 = 3.978  
+c1 = 342.7 c2 = -.5037E-2 c3 = -2205100 c5 = -1678.1  
+b1 = .431E-4 b5 = -.431E-3 b6 = 1945000. b7 = -291.75 b8 = 4   
+end
 ```
 
 ### NEWS!! (2)
@@ -62,7 +65,28 @@ This is the X-ray volume data at high [temperatures](https://bertopadron.github.
 
 ### NEWS!! (4)
 
-[Low temperature](https://bertopadron.github.io/data/Calorimetric_data/Calorimetry_vic_low_T.txt) colorimetric data for vicentite.
+[Low temperature](https://bertopadron.github.io/data/Calorimetric_data/Calorimetry_vic_low_T.txt) calorimetric data for vicentite.
+
+### NEWS!! (5)
+
+We didn't really have time to go through the actual computation of Gibbs but if you want to see how to compute it you can have a look at this [Jupyter notebook](https://bertopadron.github.io/Solution/Thermo_Granada_gmine.ipynb), at the end you will see the algebraic expression for computing the apparent Gibbs energy for any pressure and temperature $g(P,T, mineral)$ that is:
+$$
+g(P,T) = g(P_r,T_r)+s(P_r,T_r)(−T+T_r)+2c_5(\sqrt T - \sqrt T_r) + \frac{c_2}{2}(T^2-T_r)+ c_1(T-T_r) \\
+-c_3\left (\frac{1}{T_r}-\frac{1}{T} \right) + T \left (c_2(T−T _r) + c_1\ln(T/T_r) + \frac{c_3}{2} \left(\frac{1}{T^2}-\frac{1}{T_r^2} \right) +2c_5 \left(\frac{1}{\sqrt T_r}-\frac{1}{\sqrt T} \right)
+\right)
+\\
+\frac{1}{3}
+\left (
+  v_0((b_6 + c_5(T-T_r) 
+  \left( \frac{4P}{4P+c_5(T-T_r)+1} \right)^{3/4} -1 \right ) 
+  \left (b_1(T-T_r) + 2b_5(\sqrt T - \sqrt T_r) +1 \right )
+$$
+
+
+
+# SOLUTIONS
+
+Here's a quickly gathered [Jupyter notebook](https://bertopadron.github.io/Solution/Solutions.ipynb) to go through the individual solutions of the exercise (but not the final answer), for that, you need more experimental data to constrain the Margules parameter of solid solution for vicentite (you can see those experiments in the GitHub folder "Solid solution".
 
 ### Resources
 
