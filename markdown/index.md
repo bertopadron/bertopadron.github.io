@@ -71,14 +71,14 @@ This is the X-ray volume data at high [temperatures](https://bertopadron.github.
 
 We didn't really have time to go through the actual computation of Gibbs but if you want to see how to compute it you can have a look at this [Jupyter notebook](https://bertopadron.github.io/Solution/Thermo_Granada_gmine.ipynb), at the end you will see the algebraic expression for computing the apparent Gibbs energy for any pressure and temperature $g(P,T, mineral)$ that is:
 $$
-g(P,T) = g(P_r,T_r)+s(P_r,T_r)(−T+T_r)+2c_5(\sqrt T - \sqrt T_r) + \frac{c_2}{2}(T^2-T_r)+ c_1(T-T_r) \\
--c_3\left (\frac{1}{T_r}-\frac{1}{T} \right) + T \left (c_2(T−T _r) + c_1\ln(T/T_r) + \frac{c_3}{2} \left(\frac{1}{T^2}-\frac{1}{T_r^2} \right) +2c_5 \left(\frac{1}{\sqrt T_r}-\frac{1}{\sqrt T} \right)
+g(P,T) = g(P_r,T_r)+s(P_r,T_r)(−T+T_r)+c_1(T-T_r)+\frac{c_2}{2}(T^2-T_r^2)-c_3\left (\frac{1}{T_r}-\frac{1}{T} \right) + \\
+2c_5(\sqrt T - \sqrt T_r) - T \left (c_1\ln \left(\frac{T}{T_r}\right) + c_2(T−T _r)+ \frac{c_3}{2} \left(\frac{1}{T_r^2}-\frac{1}{T^2} \right) +2c_5 \left(\frac{1}{\sqrt T_r}-\frac{1}{\sqrt T} \right)
 \right)
 \\
 \frac{1}{3}
 \left (
-  v_0((b_6 + c_5(T-T_r) 
-  \left( \frac{4P}{4P+c_5(T-T_r)+1} \right)^{3/4} -1 \right ) 
+  v_0((b_6 + b_7(T-T_r) 
+  \left( \frac{4P}{4P+b_7(T-T_r)+1} \right)^{3/4} -1 \right ) 
   \left (b_1(T-T_r) + 2b_5(\sqrt T - \sqrt T_r) +1 \right )
 $$
 
